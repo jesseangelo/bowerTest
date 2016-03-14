@@ -4,7 +4,7 @@
     "Jesse Angelo <jesse@jesseangelo.com>"
   ],
   "description": "Just a test",
-  "main": "test.js",
+  "main": "dist/test.js",
   "moduleType": [],
   "license": "MIT",
   "homepage": "",
