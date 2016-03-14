@@ -1,1 +1,1 @@
-console.log("Yo this is from bowerTEST!");
+console.log("This is from bowerTEST!");
